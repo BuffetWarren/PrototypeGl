@@ -16,3 +16,13 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/login', function () {
+    return view('admin.login');
+});
+Route::get('/registration', function () {
+    return view('admin.registration');
+});
+Route::get('/app', function () {
+    return view('layouts.app');
+});
+Route::resource('admin/posts', 'Admin\PostsController');
