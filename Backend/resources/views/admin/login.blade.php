@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Login | Nalika - Material Admin Template</title>
+    <title>Login | Controle Parental APP</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon
@@ -69,8 +69,7 @@
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"></div>
             <div class="col-md-4 col-md-4 col-sm-4 col-xs-12">
                 <div class="text-center m-b-md custom-login">
-                    <h3>PLEASE LOGIN TO APP</h3>
-                    <p>This is the best app ever!</p>
+                    <h3>VEUILLEZ VOUS CONNECTER À L'APPLICATION</h3>
                 </div>
                 <div class="hpanel">
                     <div class="panel-body">
