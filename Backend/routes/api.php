@@ -19,3 +19,4 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 Route::resource('posts', 'Api\PostsController', ['except' => ['create', 'edit']]);
+Route::resource('membres', 'APi\MembresController', ['except' => ['create', 'edit']]);

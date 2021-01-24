@@ -76,22 +76,16 @@
                     <div class="panel-body">
                         <form action="#" id="loginForm">
                             <div class="form-group">
-                                <label class="control-label" for="username">Username</label>
+                                <label class="control-label" for="username">Login ou Email</label>
                                 <input type="text" placeholder="example@gmail.com" title="Please enter you username" required="" value="" name="username" id="username" class="form-control">
-                                <span class="help-block small">Your unique username to app</span>
+                                <span class="help-block small">Votre nom d'utilisateur unique pour l'application</span>
                             </div>
                             <div class="form-group">
-                                <label class="control-label" for="password">Password</label>
+                                <label class="control-label" for="password">Mot de passe</label>
                                 <input type="password" title="Please enter your password" placeholder="******" required="" value="" name="password" id="password" class="form-control">
-                                <span class="help-block small">Yur strong password</span>
+                                <span class="help-block small">YVotre mot de passe fort</span>
                             </div>
-                            <div class="checkbox login-checkbox">
-                                <label>
-										<input type="checkbox" class="i-checks"> Remember me </label>
-                                <p class="help-block small">(if this is a private computer)</p>
-                            </div>
-                            <button class="btn btn-success btn-block loginbtn">Login</button>
-                            <a class="btn btn-default btn-block" href="#">Register</a>
+                            <button class="btn btn-success btn-block loginbtn">Connexion</button>
                         </form>
                     </div>
                 </div>
@@ -100,7 +94,7 @@
         </div>
         <div class="row">
             <div class="col-md-12 col-md-12 col-sm-12 col-xs-12 text-center">
-                <p>Copyright © 2018 <a href="https://colorlib.com/wp/templates/">Colorlib</a> All rights reserved.</p>
+                <p>Copyright © 2021 <a href="#">UDs</a> All rights reserved.</p>
             </div>
         </div>
     </div>

@@ -26,3 +26,5 @@ Route::get('/app', function () {
     return view('layouts.app');
 });
 Route::resource('admin/posts', 'Admin\PostsController');
+Route::resource('admin/messages', 'Admin\MessagesController');
+Route::resource('admin/membres', 'Admin\MembresController');
